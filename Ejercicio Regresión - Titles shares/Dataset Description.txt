@@ -1,0 +1,8 @@
+Title: Titulo del Artículo
+url: ruta al artículo
+Word count: la cantidad de palabras del artículo,
+# of Links: los enlaces externos que contiene,
+# of comments: cantidad de comentarios,
+# Images video: suma de imágenes (o videos),
+Elapsed days: la cantidad de días transcurridos (al momento de crear el archivo)
+# Shares: nuestra columna de salida que será la “cantidad de veces que se compartió el artículo”.
